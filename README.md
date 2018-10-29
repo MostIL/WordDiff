@@ -1,5 +1,7 @@
 # WordDiff
-Command line utility to launch Microsoft Word to compare two Word documents
+Command line utility to launch Microsoft Word to compare two Word documents. 
+
+Can be used with Team Foundation Server (TFS) or another source control system used to store Word Documents to compare different revisions of the document.
 
 ## System Requirements:
 - Microsoft Word installed.
